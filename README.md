@@ -1,13 +1,15 @@
 # Talent Competition Task
 > (Only Included the part I did modified instead of the whole project)
 
-### Task Details
+## Task Details
 
 DATABASE : MONGODB
 
 WEB TECHNOLOGIES : REACT JS, ASP.NET /MVC/Web API, AJAX, HTML5/JavaScript/CSS
 
-### Front-end
+CSS Library: Semantic UI
+
+## Front-end
 
 Task 1 : Employer profile page
 
